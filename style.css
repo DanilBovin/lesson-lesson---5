@@ -1,0 +1,19 @@
+.header {
+    background-color: green;
+}
+
+.header-line {
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.header-section {
+    color: blue;
+    font-weight: 400;
+    font-size: 32px;
+}
+
+.photo-img {
+    width: 15%;
+    height: 20%;
+}
